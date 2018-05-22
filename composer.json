@@ -13,6 +13,7 @@
 		{"name": "shutdown57", "email": "alinkokomansuby@gmail.com"}
 	],
 	"require": {
+		"shutdown57/jsender" : "*",
 		"php": ">=7.0",
 		"ext-pdo": "*"
 	}
