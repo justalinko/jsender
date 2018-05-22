@@ -1,0 +1,35 @@
+[ JavCode 1.0 ]
+
+- Percobaan membuat Sender
+- Menggunakan PHPMailer 6.0.2
+- Masih sederhana yang penting terkirim 
+
+[ JavCode 1.8 & BugReport ]
+
+- Menggunakan PHPMailer 6.0.2
+- Bug found #1 [ ##email## tidak sesuai dengan email yg di kirimkan ]
+- Bug found #2 [ smtp susah konek (ini tergantung koneksi gan: fixed)]
+- Banner ganti
+- Penambahan jam pada status
+- Penambahan proggress send 
+- Penambahan fitur setup.php
+
+
+[ Jsender v2 ]
+
+- Rombak besar-besaran
+- Downgrade dari PHPMailer 6.0.2 ke PHPMailer 5 [ alasan lebih stabil ]
+- Pengubahan struktur directory 
+- Penambahan fitur random menggunakan files *.txt
+- Penambahan autorun [windows & linux]
+- Sistem SetUp fleksibel
+- penggantian nama config ( basic.javcode.conf -> racikan-setting.javcode.conf )
+- Penambahan settingan delay pada config
+- Penambahan settingan priority dan encoding pada smtp.javcode.conf
+- Penggantian nama folder ( bahan -> _ML_ )
+- Fixed bug #1
+- Fixed bug #2
+
+
+
+MENEMUKAN BUG YANG LAINNYA ?? POSTING KE https://facebook.com/jc.javcode DENGAN HASHTAG #BugJsenderv2

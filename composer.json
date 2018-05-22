@@ -1,0 +1,19 @@
+{
+	"name": "shutdown57/jsender",
+	"type": "application",
+	"description": "Sender spamming your inbox",
+	"keywords": ["sender", "email", "jsender", "javcode", "spam", "inbox", ],
+	"homepage": "https://www.alinko.ml",
+	"license": "GPLv3",
+	"support": {
+		"issues": "https://github.com/alintamvanz/jsender/issues",
+		"source": "https://github.com/alintamvanz/jsender"
+	},
+	"authors": [
+		{"name": "shutdown57", "email": "alinkokomansuby@gmail.com"}
+	],
+	"require": {
+		"php": ">=7.0",
+		"ext-pdo": "*"
+	}
+}
