@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Jsender v2 Pro
+Comment="Jsender (c) JavCode Project"
+Path=#PathJsender#
+Exec=php javcode.php
+Terminal=true
+Type=Application
+Icon=#PathJsender#/src/jsender.icon.png
+Categories=Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml+xml;application/xml;application/vnd.mozilla.xul+xml;application/rss+xml;application/rdf+xml;image/gif;image/jpeg;image/pn$
