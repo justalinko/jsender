@@ -1,0 +1,10 @@
+Reminder : Login Authorized AppleID [rand_text]
+Apple ID Login Activation [rand_mix]
+Notice : Security Alert From AppleID
+Reminder : AppleID Token [rand_mix]
+Apple ID Notification [rand_ip]
+Apple ID Security Notice From [rand_ip]
+Your Account Apple ID Has Been logged from [rand_ip]
+Apple ID Locked From [rand_ip]
+Your Apple ID has been disabled notice #[rand_ip]
+Apple ID Login Activation [rand_text]

@@ -1,0 +1,10 @@
+noreply-[rand_str]@appleid.apple.com
+noreply-[rand_str]@apple-support.com
+noreply-[rand_str]@icloud.me
+noreply-[rand_str]@services.apple.com
+secure-payment@apple.login.appleid.apple.com
+[rand_text]@confirmations-[rand_text].com
+verification-account@apple-[rand_text].com
+noreply-[rand_text]@appleid-[rand_text].com
+noreply-[rand_str]@[rand_text].com
+account-recovery@[rand_text]-supportapple.com

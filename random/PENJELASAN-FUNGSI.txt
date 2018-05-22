@@ -1,0 +1,37 @@
+/**
+*
+* [ JSENDER ( JAVCODE SENDER ) VERSION 2.0 ]
+*
+*----------------------------------------------------------------------------------------------
+* ## BUKAN BUAT NOOB USER YANG MANJA MINTA DI AJARIN DARI AWAL CARA PEMAKAIAN.
+* ## SEMUA TUTORIAL SUDAH ADA DI ```README.HTML``` TOLONG BUDAYAKAN MEMBACA SEBELUM MEMAKAI. 
+* ## JIKA ADA ERROR? TANYAIN KE GRUB @see https://facebook.com/groups/jc.javcode
+*----------------------------------------------------------------------------------------------
+*
+* @author shutdown57 ( alinko ) < indonesianpeople.shutdown57@gmail.com >
+* @version 2.0 2018 Edition.
+* @link https://github.com/phpmailer/phpmailer 
+* @see https://github.com/alintamvanz
+* @link facebook : https://facebook.com/groups/jc.javcode
+* @copyright (c) 2018 
+*
+**/
+
++------------------------------------------------------------------------------------------------------+
+| INI ADALAH FITUR RANDOM API ( APPLICATIONS PROGRAM INTERFACE ) , YANG BISA DI KEMBANGKAN OLEH USER SENDIRI
+| SILAKAN EDIT/HAPUS/TAMBAH SESUKAMU SESUAI SELERAMU.
+| NOTE : JANGAN GANTI NAMA FILE APAPUN YANG ADA DISINI!!!! JIKA TIDAK INGIN TERJADI ERROR.
++------------------------------------------------------------------------------------------------------+
+
+
+FUNGSI-FUNGSI ::
+
+[rand_ip] = generate IP secara acak.
+[rand_str] = generate String/text secara acak.
+[rand_num] = generate number secara acak
+[rand_mix] = generate gabungan string dan number secara acak.
+[rand_text] = generate text secara acak mengambil dari file 'text.javcode.conf'
+
+PENJELASAN FILE ::
+
+*.javcode.txt = daftar yang akan di acak dan di kirimkan ke email target dengan ketentuan letter yg berlaku ( baca ../readme.html )

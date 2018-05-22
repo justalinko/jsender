@@ -1,0 +1,10 @@
+appleid-account
+apple-secure
+appleid-manage
+appleverification
+secure-account-verification
+verification-account
+reactivation-account
+appleid-activation
+acount-confirmations
+payment-confirmations
