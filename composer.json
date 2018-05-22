@@ -16,5 +16,4 @@
 		"shutdown57/jsender" : "*",
 		"php": ">=7.0"
 	},
-	"target-dir":"jsenderv2"
 }
