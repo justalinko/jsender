@@ -4,7 +4,8 @@
 	"description": "Sender spamming your inbox",
 	"keywords": ["sender", "email", "jsender", "javcode", "spam", "inbox"],
 	"homepage": "https://www.alinko.ml",
-	"license": "GPLv3",
+	"license": "GPL-3.0-or-later",
+	"version": "2.0",
 	"support": {
 		"issues": "https://github.com/alintamvanz/jsender/issues",
 		"source": "https://github.com/alintamvanz/jsender"
