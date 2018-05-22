@@ -1,6 +1,6 @@
 {
 	"name": "shutdown57/jsender",
-	"type": "application",
+	"type": "framwork",
 	"description": "Sender spamming your inbox",
 	"keywords": ["sender", "email", "jsender", "javcode", "spam", "inbox"],
 	"homepage": "https://www.alinko.ml",
